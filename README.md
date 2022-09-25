@@ -31,6 +31,8 @@ npm start
 
 ---------
 
+# BELOW IS OPTIONAL❗
+
 ## Arguments `node . [--options] [<session name>]`
 
 ### `--self`
